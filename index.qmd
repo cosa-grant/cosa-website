@@ -1,16 +1,24 @@
 # **CO**nfidentiality **S**easonal **A**djustment and time series (COSA)
 
+## Latest 
+
+## In a nutshell 
+
 COSA is a European Statistics Action Grant consisting of two centres of excellence:
 
 - Centre of Excellence on Statistical Disclosure (SDC)
 
 - Centre of Excellence on Time Series Analysis and Seasonal Adjustment (TSA)
 
-The general purpose of the COSA is to provide assistance and services to the ESS and the ESCB members in their activities regarding Time Series Analysis and Statistical Disclosure Control.
+COSA is meant to 
 
-One of the key objectives of this project is also the development of a community of users, developers and statisticians.
+- provide assistance and services to the ESS and the ESCB members in their activities regarding Time Series Analysis and Statistical Disclosure Control.
 
-The COSA is composed of 12 different institutions and coordinated by the the French National Statistical Institute, Insee.
+- foster teh development of a community of users, developers and statisticians.
+
+The COSA consortium  is composed of 12 different institutions and coordinated by the the French National Statistical Institute, Insee.
+
+
 
 <!-- **More information** on the STACE grant and the list of participants can be found  in the [grant information sheet](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/31088049/899218/ESTAT) on the Funding and Tenders portal. -->
 
@@ -20,7 +28,7 @@ The COSA is composed of 12 different institutions and coordinated by the the Fre
 
 <!-- ## Related SDC web resources -->
 
-### Roadmap
+## Roadmap
 
 In a context of development of common tools and methods within the ESS, this action carries on the work of the STACE project (2020-2024) around three pillars: knowledge sharing and support to practitioners, development and maintenance of bespoke software (JDemetra+ for TSA, τ-ARGUS and sdcMicro for SDC) and methodological guidance (Handbooks, Guidelines, research papers). The overarching goals is to provide user friendly, efficient and technically up-to date tools for statistical production in both fields.
 
