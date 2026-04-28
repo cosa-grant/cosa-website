@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "Activities.html",
+    "href": "Activities.html",
+    "title": "Activities TSA",
+    "section": "",
+    "text": "Activities TSA"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "COfindentiality Seasonal Adjustment and time series (COSA)",
+    "section": "",
+    "text": "COfindentiality Seasonal Adjustment and time series (COSA)\nCOSA is a European Statistics Action Grant consisting of two centres of excellence:\n\nCentre of Excellence on Statistical Disclosure (SDC)\nCentre of Excellence on Time Series Analysis and Seasonal Adjustment (TSA)\n\nThe general purpose of the COSA is to provide assistance and services to the ESS and the ESCB members in their activities regarding Time Series Analysis and Statistical Disclosure Control.\nOne of the key objectives of this project is also the development of a community of users, developers and statisticians.\nThe COSA is composed of 12 different institutions and coordinated by the the French National Statistical Institute, Insee.\n\n\n\n\n\nRoadmap\nIn a context of development of common tools and methods within the ESS, this action carries on the work of the STACE project (2020-2024) around three pillars: knowledge sharing and support to practitioners, development and maintenance of bespoke software (JDemetra+ for TSA, τ-ARGUS and sdcMicro for SDC) and methodological guidance (Handbooks, Guidelines, research papers). The overarching goals is to provide user friendly, efficient and technically up-to date tools for statistical production in both fields.\nIn the previous project JDemetra+ has undergone a major refactoring with the development of version 3.x providing extensions of TSA algorithms, e.g. seasonal adjustment of high frequency data. The current action will aim at consolidating and completing this new version, by further extending some algorithms, improving technical and user-documentation, uploading R packages on CRAN and adapting JDemetra+ to new IT environments, like cloud infrastructure.\nΤ-ARGUS is considered to be the standard software for table protection. However, τ-ARGUS urgently needs to be modernized. The current project will make a start with developing/designing a modern software architecture for and apply some of the ideas in a proof of concept. The other SDC tools as well as the “old” τ-ARGUS needs to be supported.\nEleven institutions (Insee, CBS, NBB, Istat, INE, Destatis, SURS, HSO, Statistic Austria, Iceland and Norway) are beneficiaries from this grant and will contribute in the aforementioned directions with the collaboration of the Deutsche Bundesbank in TSA. Additional institutions will be involved as members of user-groups and observers (ECB, ABS, OECD…).\nResults will be presented at workshops and conferences and developments can be followed on dedicated Github repositories."
+  },
+  {
+    "objectID": "posts/Conf_OECD_Dec2025_expost/index.html",
+    "href": "posts/Conf_OECD_Dec2025_expost/index.html",
+    "title": "5th OECD-Insee TSA Workshop",
+    "section": "",
+    "text": "A very lively 5th Edition of the Time Series Analysis for Official Statistics Workshop took place at OECD, Paris, La Muette, France on December 3rd and 4th 2025 and via Zoom.\nWe were (almost) live on LinkedIn thanks to Dario Buono\nThe two main topics were Nowcasting and Seasonal Adjustment, with several talks were related to JDemetra+. All presentations are available at: https://one-communities.oecd.org/community/workshop-on-time-series-methods-for-official-statistics/SitePages/Home.aspx\nWe were delighted to spend time with some of you ! Very fruitful discussions and good mood and a bit of drama… thank you for attending !\nSee you next year !"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Time Series Analysis Workshop",
+    "section": "",
+    "text": "A Workshop on Time Series Analysis will be held at OECD, Paris, La Muette, France on December 3rd and 4th 2025.\nThe two main topics are Nowcasting and Seasonal Adjustment.\nSeveral talks relate to JDemetra+.\nThe full program is available here\nTo attend (in presence or remotely), register using this link\nhttps://forms.office.com/e/gAr2Y6CMfR\nNote that all meeting documents will be posted on: https://one-communities.oecd.org/community/workshop-on-time-series-methods-for-official-statistics/SitePages/Home.aspx\nFor any questions regarding logistics, please contact virginie.elgrably@oecd.org"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "blog",
+    "section": "",
+    "text": "5th OECD-Insee TSA Workshop\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\nAnna Smyk\n\n\nDec 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime Series Analysis Workshop\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\nAnna Smyk\n\n\nOct 15, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Tools.html",
+    "href": "Tools.html",
+    "title": "Activities SDC",
+    "section": "",
+    "text": "Activities SDC"
+  },
+  {
+    "objectID": "User_Support.html",
+    "href": "User_Support.html",
+    "title": "User support",
+    "section": "",
+    "text": "User support"
+  }
+]

@@ -1,0 +1,33 @@
+# **CO**nfidentiality **S**easonal **A**djustment and time series (COSA)
+
+COSA is a European Statistics Action Grant consisting of two centres of excellence:
+
+- Centre of Excellence on Statistical Disclosure (SDC)
+
+- Centre of Excellence on Time Series Analysis and Seasonal Adjustment (TSA)
+
+The general purpose of the COSA is to provide assistance and services to the ESS and the ESCB members in their activities regarding Time Series Analysis and Statistical Disclosure Control.
+
+One of the key objectives of this project is also the development of a community of users, developers and statisticians.
+
+The COSA is composed of 12 different institutions and coordinated by the the French National Statistical Institute, Insee.
+
+<!-- **More information** on the STACE grant and the list of participants can be found  in the [grant information sheet](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/31088049/899218/ESTAT) on the Funding and Tenders portal. -->
+
+<!-- ## Related Time Series Analysis (TSA) web resources -->
+
+<!-- To learn more about Quarto websites visit <https://git.org/docs/websites>. -->
+
+<!-- ## Related SDC web resources -->
+
+### Roadmap
+
+In a context of development of common tools and methods within the ESS, this action carries on the work of the STACE project (2020-2024) around three pillars: knowledge sharing and support to practitioners, development and maintenance of bespoke software (JDemetra+ for TSA, τ-ARGUS and sdcMicro for SDC) and methodological guidance (Handbooks, Guidelines, research papers). The overarching goals is to provide user friendly, efficient and technically up-to date tools for statistical production in both fields.
+
+In the previous project JDemetra+ has undergone a major refactoring with the development of version 3.x providing extensions of TSA algorithms, e.g. seasonal adjustment of high frequency data. The current action will aim at consolidating and completing this new version, by further extending some algorithms, improving technical and user-documentation, uploading R packages on CRAN and adapting JDemetra+ to new IT environments, like cloud infrastructure.
+
+Τ-ARGUS is considered to be the standard software for table protection. However, τ-ARGUS urgently needs to be modernized. The current project will make a start with developing/designing a modern software architecture for and apply some of the ideas in a proof of concept. The other SDC tools as well as the “old” τ-ARGUS needs to be supported.
+
+Eleven institutions (Insee, CBS, NBB, Istat, INE, Destatis, SURS, HSO, Statistic Austria, Iceland and Norway) are beneficiaries from this grant and will contribute in the aforementioned directions with the collaboration of the Deutsche Bundesbank in TSA. Additional institutions will be involved as members of user-groups and observers (ECB, ABS, OECD…).
+
+Results will be presented at workshops and conferences and developments can be followed on dedicated Github repositories.

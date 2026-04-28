@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "Cosa Project"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Teams.qmd
+        text: Teams
+      - href: Events.qmd
+        text: Events
+      - href: Activities.qmd
+        text: Activities
+      - href: Tools.qmd
+        text: Tools
+      - href: User_Support.qmd
+        text: User Support
+      - href: posts.qmd
+        text: Blog
+         
+    right: 
+    - href: about.qmd
+      text: about
+      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
+
+
