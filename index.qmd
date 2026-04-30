@@ -1,8 +1,8 @@
 # **CO**nfidentiality **S**easonal **A**djustment and time series (COSA)
 
-## Latest 
+## Latest
 
-## In a nutshell 
+## In a nutshell
 
 COSA is a European Statistics Action Grant consisting of two centres of excellence:
 
@@ -10,15 +10,13 @@ COSA is a European Statistics Action Grant consisting of two centres of excellen
 
 - Centre of Excellence on Time Series Analysis and Seasonal Adjustment (TSA)
 
-COSA is meant to 
+COSA is meant to
 
 - provide assistance and services to the ESS and the ESCB members in their activities regarding Time Series Analysis and Statistical Disclosure Control.
 
 - foster teh development of a community of users, developers and statisticians.
 
-The COSA consortium  is composed of 12 different institutions and coordinated by the the French National Statistical Institute, Insee.
-
-
+The COSA consortium is composed of 12 different institutions and coordinated by the the French National Statistical Institute, Insee.
 
 <!-- **More information** on the STACE grant and the list of participants can be found  in the [grant information sheet](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/31088049/899218/ESTAT) on the Funding and Tenders portal. -->
 
@@ -37,5 +35,3 @@ In the previous project JDemetra+ has undergone a major refactoring with the dev
 Τ-ARGUS is considered to be the standard software for table protection. However, τ-ARGUS urgently needs to be modernized. The current project will make a start with developing/designing a modern software architecture for and apply some of the ideas in a proof of concept. The other SDC tools as well as the “old” τ-ARGUS needs to be supported.
 
 Eleven institutions (Insee, CBS, NBB, Istat, INE, Destatis, SURS, HSO, Statistic Austria, Iceland and Norway) are beneficiaries from this grant and will contribute in the aforementioned directions with the collaboration of the Deutsche Bundesbank in TSA. Additional institutions will be involved as members of user-groups and observers (ECB, ABS, OECD…).
-
-Results will be presented at workshops and conferences and developments can be followed on dedicated Github repositories.

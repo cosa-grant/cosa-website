@@ -1,13 +1,21 @@
 ---
-title: "About"
+title: "Cosa grant website"
 about:
   template: jolla
   links:
     - icon: github
-      text: github
-      href: https://www.git
+      text: Cosa Grant organisation
+      href: https://github.com/cosa-grant
+    - icon: github
+      text: Cosa TSA resources and User support 
+      href: https://github.com/cosa-tsa-shop
+    - icon: github
+      text: Anna Smyk Cosa and TSA coordinator 
+      href: https://github.com/annasmyk
+    - icon: github
+      text: Peter-Paul De Wolf SDC coordinator 
+      href: https://github.com/ppdewolf
 ---
 
-About this site
 
-- 
+
