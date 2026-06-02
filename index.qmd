@@ -27,7 +27,7 @@ Details [here](posts/Conf_OECD_Dec2026/Call_for_papers_OECD_8-9-Dec-2026.pdf).
 
 COSA is a European Statistics Action Grant consisting of two centres of excellence:
 
-- Centre of Excellence on Statistical Disclosure (SDC)
+- Centre of Excellence on Statistical Disclosure Control (SDC)
 
 - Centre of Excellence on Time Series Analysis and Seasonal Adjustment (TSA)
 
