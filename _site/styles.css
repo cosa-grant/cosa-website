@@ -1,1 +1,80 @@
 /* css styles */
+main {
+    box-sizing: border-box;
+    /*margin: 100px !important;*/
+    text-align: justify !important;
+    color: black;
+    justify-content: center !important;
+    background-color: #f9cb9c !important; /*big box in the middle*/
+    padding-top: 0px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+body {
+    background-color: #f9cb9c !important; /*fond hors boite*/
+}
+
+nav {
+    background-color: #b45f06 !important;/*barre en haut et a dte */
+    padding: 20px;
+    text-align: justify !important;
+    color: black;
+}
+
+pre {
+    background-color: #000000;
+}
+
+/* Styles pour les caption des images fixes*/
+figcaption {
+    text-align: center;
+    color: black; /* Vous pouvez ajuster la couleur en fonction de vos préférences */
+    font-size: 15px;
+}
+
+.path {
+    color: #ffd966; /* jaune clair*/
+    font-family: "Consolas";
+    font-size: 16px;
+}
+
+.image {
+    max-width: 100%; /* Largeur maximale de l'image en pourcentage de l'espace disponible */
+    height: auto; /* Hauteur automatique pour conserver les proportions d'origine */
+    display: block; /* Pour centrer l'image horizontalement */
+    margin: 0 auto; /* Pour centrer l'image horizontalement */
+}
+
+.image-map-caption {
+    text-align: center;
+    color: grey; /* Vous pouvez ajuster la couleur en fonction de vos préférences */
+    font-size: 15px;
+}
+
+.button {
+  appearance: none;
+  background-color: #FAFBFC;
+  border: 1px solid rgba(27, 31, 35, 0.15);
+  border-radius: 6px;
+  box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
+  box-sizing: border-box;
+  color: #24292E;
+  cursor: pointer;
+  display: inline-block;
+  font-family: system-ui, "Segoe UI";
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 20px;
+  list-style: none;
+  padding: 6px 16px;
+  position: relative;
+  /* transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  white-space: nowrap;
+  word-wrap: break-word; */
+}

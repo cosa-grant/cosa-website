@@ -1,6 +1,27 @@
-# **CO**nfidentiality **S**easonal **A**djustment and time series (COSA)
+---
+title: "COSA" 
+subtitle: "**CO**nfidentiality **S**easonal **A**djustment and time series"
+---
+
+![](img/logo_COSA_ligne.png)
 
 ## Latest
+
+OECD-Insee annual **Workshop on Time Series Analysis** for official statistics
+
+![](posts/Conf_OECD_Dec2026/Logo_OECD_Insee_2026.png){width="200" height="100"}
+
+Paris, La Muette, France on **December 8th and 9th 2026**.
+
+Abstract submission is open and will close on September 30th 2026.
+
+Details [here](posts/Conf_OECD_Dec2026/Call_for_papers_OECD_8-9-Dec-2026.pdf).
+
+<!-- ![](posts/Conf_OECD_Dec2026/Logo_OECD_Insee_2026.png) -->
+
+<!-- ![width = 0.7\textwidth ](posts/Conf_OECD_Dec2026/Logo_OECD_Insee_2026.png) -->
+
+<!-- \includegraphics[height = 0.40]{posts/Conf_OECD_Dec2026/Logo_OECD_Insee_2026.png} -->
 
 ## In a nutshell
 
@@ -14,17 +35,15 @@ COSA is meant to
 
 - provide assistance and services to the ESS and the ESCB members in their activities regarding Time Series Analysis and Statistical Disclosure Control.
 
-- foster teh development of a community of users, developers and statisticians.
+- foster the development of a community of users, developers and statisticians.
 
-The COSA consortium is composed of 12 different institutions and coordinated by the the French National Statistical Institute, Insee.
+The COSA consortium is composed of 12 different institutions and coordinated by the French National Statistical Institute, Insee.
 
 <!-- **More information** on the STACE grant and the list of participants can be found  in the [grant information sheet](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/31088049/899218/ESTAT) on the Funding and Tenders portal. -->
 
-<!-- ## Related Time Series Analysis (TSA) web resources -->
+[TSA portal](https://jdemetra.org)
 
-<!-- To learn more about Quarto websites visit <https://git.org/docs/websites>. -->
-
-<!-- ## Related SDC web resources -->
+[SDC portal](https://github.com/sdcTools)
 
 ## Roadmap
 

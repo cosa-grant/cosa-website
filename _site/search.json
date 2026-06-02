@@ -4,28 +4,28 @@
     "href": "Activities.html",
     "title": "Activities",
     "section": "",
-    "text": "Activities"
+    "text": "Activities\nPeriod Nov 2025- Oct2029\n\nKnowledge sharing (Documentation, tutorials…)\nSupport to practitioners (help-desk, user group and international observers..)\nMethodological guidance\nTool developments (building high-level user-friendly tools, IT modernization, accessibility…)\nTraining, technical assistance and events (workshops, conferences)\nMonitoring (implementation of guidelines within ESS….)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "COnfidentiality Seasonal Adjustment and time series (COSA)",
-    "section": "",
-    "text": "COSA is a European Statistics Action Grant consisting of two centres of excellence:\n\nCentre of Excellence on Statistical Disclosure (SDC)\nCentre of Excellence on Time Series Analysis and Seasonal Adjustment (TSA)\n\nCOSA is meant to\n\nprovide assistance and services to the ESS and the ESCB members in their activities regarding Time Series Analysis and Statistical Disclosure Control.\nfoster teh development of a community of users, developers and statisticians.\n\nThe COSA consortium is composed of 12 different institutions and coordinated by the the French National Statistical Institute, Insee.\n\n\n\n\n\n\n\nIn a context of development of common tools and methods within the ESS, this action carries on the work of the STACE project (2020-2024) around three pillars: knowledge sharing and support to practitioners, development and maintenance of bespoke software (JDemetra+ for TSA, τ-ARGUS and sdcMicro for SDC) and methodological guidance (Handbooks, Guidelines, research papers). The overarching goals is to provide user friendly, efficient and technically up-to date tools for statistical production in both fields.\nIn the previous project JDemetra+ has undergone a major refactoring with the development of version 3.x providing extensions of TSA algorithms, e.g. seasonal adjustment of high frequency data. The current action will aim at consolidating and completing this new version, by further extending some algorithms, improving technical and user-documentation, uploading R packages on CRAN and adapting JDemetra+ to new IT environments, like cloud infrastructure.\nΤ-ARGUS is considered to be the standard software for table protection. However, τ-ARGUS urgently needs to be modernized. The current project will make a start with developing/designing a modern software architecture for and apply some of the ideas in a proof of concept. The other SDC tools as well as the “old” τ-ARGUS needs to be supported.\nEleven institutions (Insee, CBS, NBB, Istat, INE, Destatis, SURS, HSO, Statistic Austria, Iceland and Norway) are beneficiaries from this grant and will contribute in the aforementioned directions with the collaboration of the Deutsche Bundesbank in TSA. Additional institutions will be involved as members of user-groups and observers (ECB, ABS, OECD…)."
+    "objectID": "index.html#latest",
+    "href": "index.html#latest",
+    "title": "COSA",
+    "section": "Latest",
+    "text": "Latest\nOECD-Insee annual Workshop on Time Series Analysis for official statistics\n\nParis, La Muette, France on December 8th and 9th 2026.\nAbstract submission is open and will close on September 30th 2026.\nDetails here."
   },
   {
     "objectID": "index.html#in-a-nutshell",
     "href": "index.html#in-a-nutshell",
-    "title": "COnfidentiality Seasonal Adjustment and time series (COSA)",
-    "section": "",
-    "text": "COSA is a European Statistics Action Grant consisting of two centres of excellence:\n\nCentre of Excellence on Statistical Disclosure (SDC)\nCentre of Excellence on Time Series Analysis and Seasonal Adjustment (TSA)\n\nCOSA is meant to\n\nprovide assistance and services to the ESS and the ESCB members in their activities regarding Time Series Analysis and Statistical Disclosure Control.\nfoster teh development of a community of users, developers and statisticians.\n\nThe COSA consortium is composed of 12 different institutions and coordinated by the the French National Statistical Institute, Insee."
+    "title": "COSA",
+    "section": "In a nutshell",
+    "text": "In a nutshell\nCOSA is a European Statistics Action Grant consisting of two centres of excellence:\n\nCentre of Excellence on Statistical Disclosure (SDC)\nCentre of Excellence on Time Series Analysis and Seasonal Adjustment (TSA)\n\nCOSA is meant to\n\nprovide assistance and services to the ESS and the ESCB members in their activities regarding Time Series Analysis and Statistical Disclosure Control.\nfoster the development of a community of users, developers and statisticians.\n\nThe COSA consortium is composed of 12 different institutions and coordinated by the French National Statistical Institute, Insee.\n\nTSA portal\nSDC portal"
   },
   {
     "objectID": "index.html#roadmap",
     "href": "index.html#roadmap",
-    "title": "COnfidentiality Seasonal Adjustment and time series (COSA)",
-    "section": "",
-    "text": "In a context of development of common tools and methods within the ESS, this action carries on the work of the STACE project (2020-2024) around three pillars: knowledge sharing and support to practitioners, development and maintenance of bespoke software (JDemetra+ for TSA, τ-ARGUS and sdcMicro for SDC) and methodological guidance (Handbooks, Guidelines, research papers). The overarching goals is to provide user friendly, efficient and technically up-to date tools for statistical production in both fields.\nIn the previous project JDemetra+ has undergone a major refactoring with the development of version 3.x providing extensions of TSA algorithms, e.g. seasonal adjustment of high frequency data. The current action will aim at consolidating and completing this new version, by further extending some algorithms, improving technical and user-documentation, uploading R packages on CRAN and adapting JDemetra+ to new IT environments, like cloud infrastructure.\nΤ-ARGUS is considered to be the standard software for table protection. However, τ-ARGUS urgently needs to be modernized. The current project will make a start with developing/designing a modern software architecture for and apply some of the ideas in a proof of concept. The other SDC tools as well as the “old” τ-ARGUS needs to be supported.\nEleven institutions (Insee, CBS, NBB, Istat, INE, Destatis, SURS, HSO, Statistic Austria, Iceland and Norway) are beneficiaries from this grant and will contribute in the aforementioned directions with the collaboration of the Deutsche Bundesbank in TSA. Additional institutions will be involved as members of user-groups and observers (ECB, ABS, OECD…)."
+    "title": "COSA",
+    "section": "Roadmap",
+    "text": "Roadmap\nIn a context of development of common tools and methods within the ESS, this action carries on the work of the STACE project (2020-2024) around three pillars: knowledge sharing and support to practitioners, development and maintenance of bespoke software (JDemetra+ for TSA, τ-ARGUS and sdcMicro for SDC) and methodological guidance (Handbooks, Guidelines, research papers). The overarching goals is to provide user friendly, efficient and technically up-to date tools for statistical production in both fields.\nIn the previous project JDemetra+ has undergone a major refactoring with the development of version 3.x providing extensions of TSA algorithms, e.g. seasonal adjustment of high frequency data. The current action will aim at consolidating and completing this new version, by further extending some algorithms, improving technical and user-documentation, uploading R packages on CRAN and adapting JDemetra+ to new IT environments, like cloud infrastructure.\nΤ-ARGUS is considered to be the standard software for table protection. However, τ-ARGUS urgently needs to be modernized. The current project will make a start with developing/designing a modern software architecture for and apply some of the ideas in a proof of concept. The other SDC tools as well as the “old” τ-ARGUS needs to be supported.\nEleven institutions (Insee, CBS, NBB, Istat, INE, Destatis, SURS, HSO, Statistic Austria, Iceland and Norway) are beneficiaries from this grant and will contribute in the aforementioned directions with the collaboration of the Deutsche Bundesbank in TSA. Additional institutions will be involved as members of user-groups and observers (ECB, ABS, OECD…)."
   },
   {
     "objectID": "posts/Conf_OECD_Dec2025_expost/index.html",
@@ -33,6 +33,13 @@
     "title": "5th OECD-Insee TSA Workshop",
     "section": "",
     "text": "A very lively 5th Edition of the Time Series Analysis for Official Statistics Workshop took place at OECD, Paris, La Muette, France on December 3rd and 4th 2025 and via Zoom.\nWe were (almost) live on LinkedIn thanks to Dario Buono\nThe two main topics were Nowcasting and Seasonal Adjustment, with several talks were related to JDemetra+. All presentations are available at: https://one-communities.oecd.org/community/workshop-on-time-series-methods-for-official-statistics/SitePages/Home.aspx\nWe were delighted to spend time with some of you ! Very fruitful discussions and good mood and a bit of drama… thank you for attending !\nSee you next year !"
+  },
+  {
+    "objectID": "posts/Conf_OECD_Dec2026/index.html",
+    "href": "posts/Conf_OECD_Dec2026/index.html",
+    "title": "TSA Workshop: call for papers",
+    "section": "",
+    "text": "A Workshop on Time Series Analysis for official statistics will be held at OECD, Paris, La Muette, France on December 8th and 9th 2026.\nAbstract submission is open and will close on September 30th 2026.\nDetails here."
   },
   {
     "objectID": "posts/index.html",
@@ -46,13 +53,62 @@
     "href": "posts.html",
     "title": "blog",
     "section": "",
-    "text": "5th OECD-Insee TSA Workshop\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\nAnna Smyk\n\n\nDec 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime Series Analysis Workshop\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\nAnna Smyk\n\n\nOct 15, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "TSA Workshop: call for papers\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\nAnna Smyk\n\n\nJun 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5th OECD-Insee TSA Workshop\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\nAnna Smyk\n\n\nDec 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime Series Analysis Workshop\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\nAnna Smyk\n\n\nOct 15, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Teams.html",
+    "href": "Teams.html",
+    "title": "Teams",
+    "section": "",
+    "text": "Insee\n\n\n\nCBS, Insee, Destatis, Statistik Austria, Statistic Iceland, Statistic Norway, Surs\n\n\n\nInsee, NBB, INE, Istat, Destatis, CBS, Surs, HCSO and Bundesbank as an Associate Partner"
+  },
+  {
+    "objectID": "Teams.html#consortium-coordination",
+    "href": "Teams.html#consortium-coordination",
+    "title": "Teams",
+    "section": "",
+    "text": "Insee"
+  },
+  {
+    "objectID": "Teams.html#sdc",
+    "href": "Teams.html#sdc",
+    "title": "Teams",
+    "section": "",
+    "text": "CBS, Insee, Destatis, Statistik Austria, Statistic Iceland, Statistic Norway, Surs"
+  },
+  {
+    "objectID": "Teams.html#tsa",
+    "href": "Teams.html#tsa",
+    "title": "Teams",
+    "section": "",
+    "text": "Insee, NBB, INE, Istat, Destatis, CBS, Surs, HCSO and Bundesbank as an Associate Partner"
+  },
+  {
+    "objectID": "Tools.html",
+    "href": "Tools.html",
+    "title": "Cosa Project",
+    "section": "",
+    "text": "https://github.com/sdcTools"
+  },
+  {
+    "objectID": "Tools.html#sdc-tools",
+    "href": "Tools.html#sdc-tools",
+    "title": "Cosa Project",
+    "section": "",
+    "text": "https://github.com/sdcTools"
+  },
+  {
+    "objectID": "Tools.html#tsa-tools",
+    "href": "Tools.html#tsa-tools",
+    "title": "Cosa Project",
+    "section": "TSA Tools",
+    "text": "TSA Tools\n\nDesktop application\nhttps://github.com/jdemetra\n\n\nR packages\nhttps://github.com/rjdverse\n\n\nDocumentation\nhttps://doc.jdemetra.org"
   },
   {
     "objectID": "User_Support.html",
     "href": "User_Support.html",
     "title": "User support",
     "section": "",
-    "text": "User support"
+    "text": "User support\nSDC\nTSA"
   }
 ]

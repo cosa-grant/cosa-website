@@ -20,9 +20,9 @@ website:
       - href: posts.qmd
         text: Blog
          
-    right: 
-    - href: about.qmd
-      text: about
+    # right: 
+    # - href: about.qmd
+    #   text: about
       
 
 format:

@@ -1,8 +1,13 @@
 # Teams {.unnumbered}
 
+## Consortium coordination
 
-## Consortium coordination 
+Insee
 
-## SDC 
+## SDC
+
+CBS, Insee, Destatis, Statistik Austria, Statistic Iceland, Statistic Norway, Surs
 
 ## TSA
+
+Insee, NBB, INE, Istat, Destatis, CBS, Surs, HCSO and Bundesbank as an Associate Partner

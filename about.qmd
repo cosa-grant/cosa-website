@@ -16,6 +16,3 @@ about:
       text: Peter-Paul De Wolf SDC coordinator 
       href: https://github.com/ppdewolf
 ---
-
-
-
