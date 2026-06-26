@@ -43,7 +43,7 @@ The COSA consortium is composed of 12 different institutions and coordinated by 
 
 [TSA portal](https://jdemetra.org)
 
-[SDC portal](https://github.com/sdcTools)
+[SDC portal](https://sdctools.github.io/UserSupport/)
 
 ## Roadmap
 
