@@ -2,7 +2,7 @@
 
 
 
-[SDC](https://github.com/sdcTools)
+[SDC](https://github.com/sdcTools/UserSupport)
 
 
 
