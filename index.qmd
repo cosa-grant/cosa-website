@@ -5,6 +5,10 @@ subtitle: "**CO**nfidentiality **S**easonal **A**djustment and time series"
 
 ![](img/logo_COSA_ligne.png)
 
+A Eurostat co-founded project
+
+![](img/eurostat_logo.png){width="50%" height="50%"}
+
 ## Latest
 
 OECD-Insee annual **Workshop on Time Series Analysis** for official statistics
