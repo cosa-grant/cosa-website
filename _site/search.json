@@ -1,59 +1,17 @@
 [
   {
-    "objectID": "User_Support.html",
-    "href": "User_Support.html",
-    "title": "User Support",
+    "objectID": "Activities.html",
+    "href": "Activities.html",
+    "title": "Activities",
     "section": "",
-    "text": "GitHub\n\n\n\n\n\n\n\n\n\n\nTo ask a question, you can complete an issue directly on GitHub. You need to have a GitHub account. To complete an issue on GitHub, you should:\n1.Go to the Issues tab:\n\n\nClick on New issue:\n\n\n\nChoose one of the themes proposed in the list and click on Get started:\n\n\n\nFill the question with a title and a text to explain the problem or the request and click on Submit new issue:"
+    "text": "Documentation, tutorials…\n\n\n\nHelp-desk services, user groups and collaboration with international observers.\n\n\n\n\n\n\nBuilding high-level, user-friendly tools, modernising IT infrastructures and improving software accessibility.\n\n\n\nOrganising workshops and conferences.\n\n\n\nImplementating methodological guidelines within the European Statistical System (ESS)."
   },
   {
-    "objectID": "User_Support.html#how-to-ask-a-question",
-    "href": "User_Support.html#how-to-ask-a-question",
-    "title": "User Support",
+    "objectID": "Activities.html#november-2025-october-2029",
+    "href": "Activities.html#november-2025-october-2029",
+    "title": "Activities",
     "section": "",
-    "text": "To ask a question, you can complete an issue directly on GitHub. You need to have a GitHub account. To complete an issue on GitHub, you should:\n1.Go to the Issues tab:\n\n\nClick on New issue:\n\n\n\nChoose one of the themes proposed in the list and click on Get started:\n\n\n\nFill the question with a title and a text to explain the problem or the request and click on Submit new issue:"
-  },
-  {
-    "objectID": "Teams.html",
-    "href": "Teams.html",
-    "title": "Teams",
-    "section": "",
-    "text": "COSA brings together experts from national statistical institutes across Europe, working together on statistical confidentiality and time series analysis.\n\n\n\n\n\n\n\n\n\n\n Anna Smyk\nInsee\n\n\n\n\n\n\nParticipating institutions: CBS · Insee · Destatis · Statistik Austria · Statistic Iceland · Statistic Norway · SURS\n\n\n\n\nPW\n\nPeter-Paul de Wolf\nCBS\n\n\n\nLB\n\nLaurent Brochet\nInsee\n\n\n\nNF\n\nNadège Ferrer-Pradines\nInsee\n\n\n\nJD\n\nJulien Desclodure\nInsee\n\n\n\nDL\n\nDimitri Lemaire\nInsee\n\n\n\nAY\n\nArnaud Yapou Nderkanzuku\nInsee\n\n\n\n\n\n\nParticipating institutions: Insee · NBB · INE · Istat · Destatis · CBS · SURS · HCSO · Deutsche Bundesbank (Associate Partner)\n\n\n\n Anna Smyk\nInsee Coordinator\n\n\n\nCL\n\nCorentin Lemasson\nNBB\n\n\n\nCS\n\nCarlos Sáez Calvo\nINE\n\n\n\nJR\n\nJuan Rodenas Gomez\nINE\n\n\n\nAP\n\nAlessandro Piovani\nIstat\n\n\n\nLV\n\nLukas Vogel\nDestatis\n\n\n\nPO\n\nPim Ouwehand\nCBS\n\n\n Eulalie Delaune\nInsee\n\n\n\nPC\n\nPhilippe Charles\nNBB\n\n\n Karsten Webel\nDeutsche Bundesbank\n\n\n\nDaniel Ollech\nDeutsche Bundesbank\n\n\n\nTW\n\nThomas Witthohn\nDeutsche Bundesbank\n\n\n\nJP\n\nJean Palate\nIndependant Researcher"
-  },
-  {
-    "objectID": "Teams.html#consortium-coordination",
-    "href": "Teams.html#consortium-coordination",
-    "title": "Teams",
-    "section": "",
-    "text": "Anna Smyk\nInsee"
-  },
-  {
-    "objectID": "Teams.html#statistical-disclosure-control-sdc",
-    "href": "Teams.html#statistical-disclosure-control-sdc",
-    "title": "Teams",
-    "section": "",
-    "text": "Participating institutions: CBS · Insee · Destatis · Statistik Austria · Statistic Iceland · Statistic Norway · SURS\n\n\n\n\nPW\n\nPeter-Paul de Wolf\nCBS\n\n\n\nLB\n\nLaurent Brochet\nInsee\n\n\n\nNF\n\nNadège Ferrer-Pradines\nInsee\n\n\n\nJD\n\nJulien Desclodure\nInsee\n\n\n\nDL\n\nDimitri Lemaire\nInsee\n\n\n\nAY\n\nArnaud Yapou Nderkanzuku\nInsee"
-  },
-  {
-    "objectID": "Teams.html#time-series-analysis-tsa",
-    "href": "Teams.html#time-series-analysis-tsa",
-    "title": "Teams",
-    "section": "",
-    "text": "Participating institutions: Insee · NBB · INE · Istat · Destatis · CBS · SURS · HCSO · Deutsche Bundesbank (Associate Partner)\n\n\n\n Anna Smyk\nInsee Coordinator\n\n\n\nCL\n\nCorentin Lemasson\nNBB\n\n\n\nCS\n\nCarlos Sáez Calvo\nINE\n\n\n\nJR\n\nJuan Rodenas Gomez\nINE\n\n\n\nAP\n\nAlessandro Piovani\nIstat\n\n\n\nLV\n\nLukas Vogel\nDestatis\n\n\n\nPO\n\nPim Ouwehand\nCBS\n\n\n Eulalie Delaune\nInsee\n\n\n\nPC\n\nPhilippe Charles\nNBB\n\n\n Karsten Webel\nDeutsche Bundesbank\n\n\n\nDaniel Ollech\nDeutsche Bundesbank\n\n\n\nTW\n\nThomas Witthohn\nDeutsche Bundesbank\n\n\n\nJP\n\nJean Palate\nIndependant Researcher"
-  },
-  {
-    "objectID": "posts/index.html",
-    "href": "posts/index.html",
-    "title": "Time Series Analysis Workshop",
-    "section": "",
-    "text": "A Workshop on Time Series Analysis will be held at OECD, Paris, La Muette, France on December 3rd and 4th 2025.\nThe two main topics are Nowcasting and Seasonal Adjustment.\nSeveral talks relate to JDemetra+.\nThe full program is available here\nTo attend (in presence or remotely), register using this link\nhttps://forms.office.com/e/gAr2Y6CMfR\nNote that all meeting documents will be posted on: https://one-communities.oecd.org/community/workshop-on-time-series-methods-for-official-statistics/SitePages/Home.aspx\nFor any questions regarding logistics, please contact virginie.elgrably@oecd.org"
-  },
-  {
-    "objectID": "posts/Conf_OECD_Dec2025_expost/index.html",
-    "href": "posts/Conf_OECD_Dec2025_expost/index.html",
-    "title": "5th OECD-Insee TSA Workshop",
-    "section": "",
-    "text": "A very lively 5th Edition of the Time Series Analysis for Official Statistics Workshop took place at OECD, Paris, La Muette, France on December 3rd and 4th 2025 and via Zoom.\nWe were (almost) live on LinkedIn thanks to Dario Buono\nThe two main topics were Nowcasting and Seasonal Adjustment, with several talks were related to JDemetra+. All presentations are available at: https://one-communities.oecd.org/community/workshop-on-time-series-methods-for-official-statistics/SitePages/Home.aspx\nWe were delighted to spend time with some of you ! Very fruitful discussions and good mood and a bit of drama… thank you for attending !\nSee you next year !"
+    "text": "Documentation, tutorials…\n\n\n\nHelp-desk services, user groups and collaboration with international observers.\n\n\n\n\n\n\nBuilding high-level, user-friendly tools, modernising IT infrastructures and improving software accessibility.\n\n\n\nOrganising workshops and conferences.\n\n\n\nImplementating methodological guidelines within the European Statistical System (ESS)."
   },
   {
     "objectID": "Events.html",
@@ -75,20 +33,6 @@
     "title": "Events",
     "section": "",
     "text": "PAST EVENT · OCTOBER 2026\n\n\n\nNational Bank of Belgium · Brussels, Belgium\nA hands-on meeting to work collaboratively and discuss ongoing developments.\n\n\n\n\n\nPAST EVENT · JUNE 2026\n\n\n\nMadrid, Spain\nA project meeting to discuss ongoing activities."
-  },
-  {
-    "objectID": "Activities.html",
-    "href": "Activities.html",
-    "title": "Activities",
-    "section": "",
-    "text": "Documentation, tutorials…\n\n\n\nHelp-desk services, user groups and collaboration with international observers.\n\n\n\n\n\n\nBuilding high-level, user-friendly tools, modernising IT infrastructures and improving software accessibility.\n\n\n\nOrganising workshops and conferences.\n\n\n\nImplementating methodological guidelines within the European Statistical System (ESS)."
-  },
-  {
-    "objectID": "Activities.html#november-2025-october-2029",
-    "href": "Activities.html#november-2025-october-2029",
-    "title": "Activities",
-    "section": "",
-    "text": "Documentation, tutorials…\n\n\n\nHelp-desk services, user groups and collaboration with international observers.\n\n\n\n\n\n\nBuilding high-level, user-friendly tools, modernising IT infrastructures and improving software accessibility.\n\n\n\nOrganising workshops and conferences.\n\n\n\nImplementating methodological guidelines within the European Statistical System (ESS)."
   },
   {
     "objectID": "index.html",
@@ -119,6 +63,13 @@
     "text": "Roadmap\nIn a context of development of common tools and methods within the ESS, this action carries on the work of the STACE project (2020–2024) around three pillars: knowledge sharing and support to practitioners, development and maintenance of bespoke software (JDemetra+ for TSA, τ-ARGUS and sdcMicro for SDC) and methodological guidance (Handbooks, Guidelines, research papers).\nThe overarching goals is to provide user friendly, efficient and technically up-to-date tools for statistical production in both fields.\n\nTime Series Analysis\nIn the previous project JDemetra+ has undergone a major refactoring with the development of version 3.x providing extensions of TSA algorithms, e.g. seasonal adjustment of high frequency data.\nThe current action will aim at consolidating and completing this new version, by further extending some algorithms, improving technical and user-documentation, uploading R packages on CRAN and adapting JDemetra+ to new IT environments, like cloud infrastructure.\n\n\nStatistical Disclosure Control\nΤ-ARGUS is considered to be the standard software for table protection. However, τ-ARGUS urgently needs to be modernized.\nThe current project will make a start with developing/designing a modern software architecture for and apply some of the ideas in a proof of concept. The other SDC tools as well as the “old” τ-ARGUS needs to be supported.\n\n\nEleven institutions (Insee, CBS, NBB, Istat, INE, Destatis, SURS, HSO, Statistic Austria, Iceland and Norway) are beneficiaries from this grant and will contribute in the aforementioned directions with the collaboration of the Deutsche Bundesbank in TSA.\nAdditional institutions will be involved as members of user-groups and observers (ECB, ABS, OECD…)."
   },
   {
+    "objectID": "posts/Conf_OECD_Dec2025_expost/index.html",
+    "href": "posts/Conf_OECD_Dec2025_expost/index.html",
+    "title": "5th OECD-Insee TSA Workshop",
+    "section": "",
+    "text": "A very lively 5th Edition of the Time Series Analysis for Official Statistics Workshop took place at OECD, Paris, La Muette, France on December 3rd and 4th 2025 and via Zoom.\nWe were (almost) live on LinkedIn thanks to Dario Buono\nThe two main topics were Nowcasting and Seasonal Adjustment, with several talks were related to JDemetra+. All presentations are available at: https://one-communities.oecd.org/community/workshop-on-time-series-methods-for-official-statistics/SitePages/Home.aspx\nWe were delighted to spend time with some of you ! Very fruitful discussions and good mood and a bit of drama… thank you for attending !\nSee you next year !"
+  },
+  {
     "objectID": "posts/Conf_OECD_Dec2026/index.html",
     "href": "posts/Conf_OECD_Dec2026/index.html",
     "title": "TSA Workshop: call for papers",
@@ -126,11 +77,46 @@
     "text": "A Workshop on Time Series Analysis for official statistics will be held at OECD, Paris, La Muette, France on December 8th and 9th 2026.\nAbstract submission closed on September 30th 2026.\nDiscover the workshop→\nPdf page here."
   },
   {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Time Series Analysis Workshop",
+    "section": "",
+    "text": "A Workshop on Time Series Analysis will be held at OECD, Paris, La Muette, France on December 3rd and 4th 2025.\nThe two main topics are Nowcasting and Seasonal Adjustment.\nSeveral talks relate to JDemetra+.\nThe full program is available here\nTo attend (in presence or remotely), register using this link\nhttps://forms.office.com/e/gAr2Y6CMfR\nNote that all meeting documents will be posted on: https://one-communities.oecd.org/community/workshop-on-time-series-methods-for-official-statistics/SitePages/Home.aspx\nFor any questions regarding logistics, please contact virginie.elgrably@oecd.org"
+  },
+  {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "blog",
     "section": "",
-    "text": "TSA Workshop: call for papers\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\nAnna Smyk\n\n\nNov 25, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n5th OECD-Insee TSA Workshop\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\nAnna Smyk\n\n\nDec 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime Series Analysis Workshop\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\nAnna Smyk\n\n\nOct 15, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "TSA Workshop: call for papers\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\nAnna Smyk\n\n\nNov 25, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5th OECD-Insee TSA Workshop\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\nAnna Smyk\n\n\nDec 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime Series Analysis Workshop\n\n\n\nTalks on JD+\n\n\n\n\n\n\n\nAnna Smyk\n\n\nOct 15, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Teams.html",
+    "href": "Teams.html",
+    "title": "Teams",
+    "section": "",
+    "text": "COSA brings together experts from national statistical institutes across Europe, working together on statistical confidentiality and time series analysis.\n\n\n\n\n\n\n\n\n\n\n Anna Smyk\nInsee\n\n\n\n\n\n\nParticipating institutions: CBS · Insee · Destatis · Statistik Austria · Statistic Iceland · Statistic Norway · SURS\n\n\n\n\nPW\n\nPeter-Paul de Wolf\nCBS\n\n\n\nLB\n\nLaurent Brochet\nInsee\n\n\n\nNF\n\nNadège Ferrer-Pradines\nInsee\n\n\n\nJD\n\nJulien Desclodure\nInsee\n\n\n\nDL\n\nDimitri Lemaire\nInsee\n\n\n\nAY\n\nArnaud Yapou Nderkanzuku\nInsee\n\n\n\n\n\n\nParticipating institutions: Insee · NBB · INE · Istat · Destatis · CBS · SURS · HCSO · Deutsche Bundesbank (Associate Partner)\n\n\n\n Anna Smyk\nInsee Coordinator\n\n\n\nCL\n\nCorentin Lemasson\nNBB\n\n\n\nCS\n\nCarlos Sáez Calvo\nINE\n\n\n\nJR\n\nJuan Rodenas Gomez\nINE\n\n\n\nAP\n\nAlessandro Piovani\nIstat\n\n\n\nLV\n\nLukas Vogel\nDestatis\n\n\n\nPO\n\nPim Ouwehand\nCBS\n\n\n Eulalie Delaune\nInsee\n\n\n\nPC\n\nPhilippe Charles\nNBB\n\n\n Karsten Webel\nDeutsche Bundesbank\n\n\n\nDaniel Ollech\nDeutsche Bundesbank\n\n\n\nTW\n\nThomas Witthohn\nDeutsche Bundesbank\n\n\n\nJP\n\nJean Palate\nIndependant Researcher"
+  },
+  {
+    "objectID": "Teams.html#consortium-coordination",
+    "href": "Teams.html#consortium-coordination",
+    "title": "Teams",
+    "section": "",
+    "text": "Anna Smyk\nInsee"
+  },
+  {
+    "objectID": "Teams.html#statistical-disclosure-control-sdc",
+    "href": "Teams.html#statistical-disclosure-control-sdc",
+    "title": "Teams",
+    "section": "",
+    "text": "Participating institutions: CBS · Insee · Destatis · Statistik Austria · Statistic Iceland · Statistic Norway · SURS\n\n\n\n\nPW\n\nPeter-Paul de Wolf\nCBS\n\n\n\nLB\n\nLaurent Brochet\nInsee\n\n\n\nNF\n\nNadège Ferrer-Pradines\nInsee\n\n\n\nJD\n\nJulien Desclodure\nInsee\n\n\n\nDL\n\nDimitri Lemaire\nInsee\n\n\n\nAY\n\nArnaud Yapou Nderkanzuku\nInsee"
+  },
+  {
+    "objectID": "Teams.html#time-series-analysis-tsa",
+    "href": "Teams.html#time-series-analysis-tsa",
+    "title": "Teams",
+    "section": "",
+    "text": "Participating institutions: Insee · NBB · INE · Istat · Destatis · CBS · SURS · HCSO · Deutsche Bundesbank (Associate Partner)\n\n\n\n Anna Smyk\nInsee Coordinator\n\n\n\nCL\n\nCorentin Lemasson\nNBB\n\n\n\nCS\n\nCarlos Sáez Calvo\nINE\n\n\n\nJR\n\nJuan Rodenas Gomez\nINE\n\n\n\nAP\n\nAlessandro Piovani\nIstat\n\n\n\nLV\n\nLukas Vogel\nDestatis\n\n\n\nPO\n\nPim Ouwehand\nCBS\n\n\n Eulalie Delaune\nInsee\n\n\n\nPC\n\nPhilippe Charles\nNBB\n\n\n Karsten Webel\nDeutsche Bundesbank\n\n\n\nDaniel Ollech\nDeutsche Bundesbank\n\n\n\nTW\n\nThomas Witthohn\nDeutsche Bundesbank\n\n\n\nJP\n\nJean Palate\nIndependant Researcher"
   },
   {
     "objectID": "Tools.html",
@@ -152,5 +138,19 @@
     "title": "Cosa Project",
     "section": "TSA Tools",
     "text": "TSA Tools\n\nJDemetra+ portal\nhttps://jdemetra.org\n\n\nDesktop application\nhttps://github.com/jdemetra\n\n\nR packages\nhttps://github.com/rjdverse\n\n\nDocumentation\nhttps://doc.jdemetra.org"
+  },
+  {
+    "objectID": "User_Support.html",
+    "href": "User_Support.html",
+    "title": "User Support",
+    "section": "",
+    "text": "GitHub\n\n\n\n\n\n\n\n\n\n\nTo ask a question, you can complete an issue directly on GitHub. You need to have a GitHub account. To complete an issue on GitHub, you should:\n1.Go to the Issues tab:\n\n\nClick on New issue:\n\n\n\nChoose one of the themes proposed in the list and click on Get started:\n\n\n\nFill the question with a title and a text to explain the problem or the request and click on Submit new issue:"
+  },
+  {
+    "objectID": "User_Support.html#how-to-ask-a-question",
+    "href": "User_Support.html#how-to-ask-a-question",
+    "title": "User Support",
+    "section": "",
+    "text": "To ask a question, you can complete an issue directly on GitHub. You need to have a GitHub account. To complete an issue on GitHub, you should:\n1.Go to the Issues tab:\n\n\nClick on New issue:\n\n\n\nChoose one of the themes proposed in the list and click on Get started:\n\n\n\nFill the question with a title and a text to explain the problem or the request and click on Submit new issue:"
   }
 ]
