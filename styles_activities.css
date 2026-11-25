@@ -1,0 +1,71 @@
+
+/* =====================================
+  ACTIVITIES PAGE
+===================================== */
+  
+  .cosa-activities-intro {
+    background: var(--cosa-blue);
+    color: var(--cosa-white);
+    padding: 24px 30px;
+    border-radius: 12px;
+    border-bottom: 5px solid var(--cosa-yellow);
+    margin: 24px 0 32px;
+    font-size: 1.05rem;
+  }
+
+.cosa-activities-intro strong {
+  display: block;
+  color: var(--cosa-yellow);
+  font-size: 1.2rem;
+  margin-bottom: 8px;
+}
+
+.cosa-activities-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+  margin: 28px 0;
+}
+
+.cosa-activity-card {
+  padding: 28px;
+  border-radius: 12px;
+  border-bottom: 6px solid var(--cosa-blue);
+  color: var(--cosa-text);
+  min-height: 180px;
+}
+
+.cosa-activity-yellow {
+  background: var(--cosa-yellow);
+}
+
+.cosa-activity-orange {
+  background: var(--cosa-orange);
+}
+
+.cosa-activity-card h3 {
+  color: var(--cosa-blue);
+  margin-top: 0;
+  margin-bottom: 14px;
+}
+
+.cosa-activity-card p {
+  margin-bottom: 0;
+  line-height: 1.65;
+}
+
+@media (max-width: 700px) {
+  .cosa-activities-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  
+  .cosa-activity-card {
+    min-height: auto;
+    padding: 24px;
+  }
+  
+  .cosa-activities-intro {
+    padding: 20px;
+  }
+}

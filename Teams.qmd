@@ -1,13 +1,188 @@
+---
+title: ""
+---
+
 # Teams {.unnumbered}
+
+COSA brings together experts from national statistical institutes across Europe, working together on statistical confidentiality and time series analysis.
+
+
+<!-- ## Consortium coordination -->
+
+<!-- Insee -->
+
+<!-- ## SDC -->
+
+<!-- CBS, Insee, Destatis, Statistik Austria, Statistic Iceland, Statistic Norway, Surs -->
+
+<!-- ## TSA -->
+
+<!-- Insee, NBB, INE, Istat, Destatis, CBS, Surs, HCSO and Bundesbank as an Associate Partner -->
 
 ## Consortium coordination
 
-Insee
+::: {.cosa-team-grid}
 
-## SDC
+::: {.cosa-person-card}
+![](img/photo_smyk.jpg){.cosa-person-photo}
+**Anna Smyk**
 
-CBS, Insee, Destatis, Statistik Austria, Statistic Iceland, Statistic Norway, Surs
+<span class="cosa-person-institution">Insee</span>
+:::
 
-## TSA
+:::
 
-Insee, NBB, INE, Istat, Destatis, CBS, Surs, HCSO and Bundesbank as an Associate Partner
+## Statistical Disclosure Control (SDC)
+
+::: {.cosa-team-institutions}
+**Participating institutions:** CBS · Insee · Destatis · Statistik Austria · Statistic Iceland · Statistic Norway · SURS
+:::
+
+::: {.cosa-team-grid}
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">PW</div>
+**Peter-Paul de Wolf**
+
+<span class="cosa-person-institution">CBS</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">LB</div>
+**Laurent Brochet**
+
+<span class="cosa-person-institution">Insee</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">NF</div>
+**Nadège Ferrer-Pradines**
+
+<span class="cosa-person-institution">Insee</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">JD</div>
+**Julien Desclodure**
+
+<span class="cosa-person-institution">Insee</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">DL</div>
+**Dimitri Lemaire**
+
+<span class="cosa-person-institution">Insee</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">AY</div>
+**Arnaud Yapou Nderkanzuku**
+
+<span class="cosa-person-institution">Insee</span>
+:::
+
+
+:::
+
+## Time Series Analysis (TSA)
+::: {.cosa-team-institutions}
+**Participating institutions:** Insee · NBB · INE · Istat · Destatis · CBS · SURS · HCSO · Deutsche Bundesbank (Associate Partner)
+:::
+
+::: {.cosa-team-grid}
+
+::: {.cosa-person-card}
+![](img/photo_smyk.jpg){.cosa-person-photo}
+**Anna Smyk**
+
+<span class="cosa-person-institution">Insee</span>
+<span class="cosa-person-role">Coordinator</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">CL</div>
+**Corentin Lemasson**
+
+<span class="cosa-person-institution">NBB</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">CS</div>
+**Carlos Sáez Calvo**
+
+<span class="cosa-person-institution">INE</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">JR</div>
+**Juan Rodenas Gomez**
+
+<span class="cosa-person-institution">INE</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">AP</div>
+**Alessandro Piovani**
+
+<span class="cosa-person-institution">Istat</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">LV</div>
+**Lukas Vogel**
+
+<span class="cosa-person-institution">Destatis</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">PO</div>
+**Pim Ouwehand**
+
+<span class="cosa-person-institution">CBS</span>
+:::
+
+::: {.cosa-person-card}
+![](img/photo_delaune.jpg){.cosa-person-photo}
+**Eulalie Delaune**
+
+<span class="cosa-person-institution">Insee</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">PC</div>
+**Philippe Charles**
+
+<span class="cosa-person-institution">NBB</span>
+:::
+
+::: {.cosa-person-card}
+![](img/photo_webel.jpg){.cosa-person-photo}
+**Karsten Webel**
+
+<span class="cosa-person-institution">Deutsche Bundesbank</span>
+:::
+
+::: {.cosa-person-card}
+![](img/photo_ollech.jpg){.cosa-person-photo}
+
+**Daniel Ollech**
+
+<span class="cosa-person-institution">Deutsche Bundesbank</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">TW</div>
+**Thomas Witthohn**
+
+<span class="cosa-person-institution">Deutsche Bundesbank</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">JP</div>
+**Jean Palate**
+
+<span class="cosa-person-institution">Independant Researcher</span>
+:::
+
+:::

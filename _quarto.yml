@@ -28,8 +28,15 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css:
+      - styles.css
+      - styles_teams.css
+      - styles_events.css
+      - styles_activities.css
     toc: true
+    smooth-scroll: true
+    page-layout: article
+    include-after-body: logo-bar.html
 
 editor: visual
 

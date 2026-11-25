@@ -1,0 +1,133 @@
+
+/* =====================================
+  TEAMS - PEOPLE CARDS
+===================================== */
+  
+  .cosa-team-grid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 22px;
+    margin: 24px 0 42px;
+  }
+
+.cosa-person-card {
+  background: #FFFFFF;
+    border: 1px solid rgba(23, 75, 154, 0.12);
+  border-bottom: 5px solid var(--cosa-yellow);
+  border-radius: 12px;
+  padding: 24px 16px;
+  text-align: center;
+  box-shadow: 0 3px 10px rgba(43, 36, 30, 0.06);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.cosa-person-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 7px 18px rgba(43, 36, 30, 0.12);
+}
+
+.cosa-avatar {
+  width: 86px;
+  height: 86px;
+  margin: 0 auto 16px;
+  border-radius: 50%;
+  background: var(--cosa-blue);
+  color: var(--cosa-yellow);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.7rem;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+
+.cosa-person-card strong {
+  display: block;
+  color: var(--cosa-blue);
+  font-size: 1.05rem;
+  margin-bottom: 6px;
+}
+
+.cosa-person-institution {
+  display: block;
+  color: var(--cosa-text);
+  font-size: 0.92rem;
+}
+
+.cosa-person-role {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 4px 10px;
+  border-radius: 20px;
+  background: var(--cosa-yellow);
+  color: var(--cosa-blue);
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+/* Responsive layout */
+  
+  @media (max-width: 1000px) {
+    .cosa-team-grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+@media (max-width: 650px) {
+  .cosa-team-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px;
+  }
+  
+  .cosa-person-card {
+    padding: 18px 10px;
+  }
+  
+  .cosa-avatar {
+    width: 70px;
+    height: 70px;
+    font-size: 1.4rem;
+  }
+}
+
+
+/* =====================================
+   TEAMS - INSTITUTIONS AND PHOTOS
+   ===================================== */
+
+.cosa-team-institutions {
+  background: var(--cosa-yellow);
+  color: var(--cosa-text);
+  padding: 16px 22px;
+  border-left: 6px solid var(--cosa-orange-dark);
+  border-radius: 8px;
+  margin: 18px 0 28px;
+  line-height: 1.8;
+}
+
+.cosa-team-institutions strong {
+  color: var(--cosa-blue);
+}
+
+/* People photos */
+
+.cosa-person-photo {
+  display: block;
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+  margin: 0 auto 16px;
+  border: 4px solid var(--cosa-yellow);
+}
+
+/* Remove the old initials avatar if no longer used */
+
+
+@media (max-width: 650px) {
+  .cosa-person-photo {
+    width: 85px;
+    height: 85px;
+  }
+}

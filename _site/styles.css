@@ -1,80 +1,476 @@
-/* css styles */
-main {
-    box-sizing: border-box;
-    /*margin: 100px !important;*/
-    text-align: justify !important;
-    color: black;
-    justify-content: center !important;
-    background-color: #f9cb9c !important; /*big box in the middle*/
-    padding-top: 0px;
-    padding-bottom: 30px;
-    padding-right: 30px;
-    padding-left: 30px;
+
+/* =====================================
+   COSA - WARM COLOURFUL IDENTITY
+   ===================================== */
+
+:root {
+  --cosa-blue: #174B9A;
+  --cosa-orange: #F4A340;
+  --cosa-orange-dark: #E97835;
+  --cosa-yellow: #FFD34E;
+  --cosa-vanilla: #FFF5E2;
+  --cosa-text: #493A27;
+  --cosa-grey: #2B241E;
+  --cosa-white: #FFF8E8;
 }
+
+/* =====================================
+   GENERAL LAYOUT
+   ===================================== */
 
 body {
-    background-color: #f9cb9c !important; /*fond hors boite*/
+  background-color: var(--cosa-vanilla);
+  color: var(--cosa-grey);
+  line-height: 1.7;
 }
 
-nav {
-    background-color: #b45f06 !important;/*barre en haut et a dte */
-    padding: 20px;
-    text-align: justify !important;
-    color: black;
+#quarto-content {
+  max-width: 1600px;
+  margin: auto;
+  padding: 0 28px;
 }
 
-pre {
-    background-color: #000000;
+main,
+main.content {
+  max-width: none !important;
+  width: 100%;
+  text-align: left !important;
 }
 
-/* Styles pour les caption des images fixes*/
-figcaption {
-    text-align: center;
-    color: black; /* Vous pouvez ajuster la couleur en fonction de vos préférences */
-    font-size: 15px;
+/* =====================================
+   MAIN NAVIGATION
+   ===================================== */
+
+.navbar {
+  min-height: 82px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: var(--cosa-blue);
+  border-bottom: 4px solid var(--cosa-yellow);
 }
 
-.path {
-    color: #ffd966; /* jaune clair*/
-    font-family: "Consolas";
-    font-size: 16px;
+.navbar .nav-link {
+  font-size: 1.08rem;
+  font-weight: 650;
+  padding: 14px 16px !important;
+  color: var(--cosa-white) !important;
+  transition: color 0.2s ease;
 }
 
-.image {
-    max-width: 100%; /* Largeur maximale de l'image en pourcentage de l'espace disponible */
-    height: auto; /* Hauteur automatique pour conserver les proportions d'origine */
-    display: block; /* Pour centrer l'image horizontalement */
-    margin: 0 auto; /* Pour centrer l'image horizontalement */
+.navbar .nav-link:hover,
+.navbar .nav-link:focus,
+.navbar .nav-link.active {
+  color: var(--cosa-yellow) !important;
 }
 
-.image-map-caption {
-    text-align: center;
-    color: grey; /* Vous pouvez ajuster la couleur en fonction de vos préférences */
-    font-size: 15px;
+.navbar .navbar-brand {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--cosa-white) !important;
 }
 
-.button {
-  appearance: none;
-  background-color: #FAFBFC;
-  border: 1px solid rgba(27, 31, 35, 0.15);
-  border-radius: 6px;
-  box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
-  box-sizing: border-box;
-  color: #24292E;
-  cursor: pointer;
-  display: inline-block;
-  font-family: system-ui, "Segoe UI";
-  font-size: 17px;
+/* Dropdown menus */
+
+.navbar .dropdown-menu {
+  background-color: var(--cosa-vanilla);
+  border: 2px solid var(--cosa-orange);
+  border-radius: 8px;
+}
+
+.navbar .dropdown-item {
+  color: var(--cosa-blue);
   font-weight: 500;
-  line-height: 20px;
-  list-style: none;
-  padding: 6px 16px;
-  position: relative;
-  /* transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-  vertical-align: middle;
-  white-space: nowrap;
-  word-wrap: break-word; */
+}
+
+.navbar .dropdown-item:hover {
+  background-color: var(--cosa-yellow);
+  color: var(--cosa-blue);
+}
+
+/* =====================================
+   LOGOS
+   ===================================== */
+
+/* Horizontal COSA logo */
+
+.cosa-logo-bar {
+  width: 100%;
+  box-sizing: border-box;
+  background-color: var(--cosa-vanilla);
+  border-bottom: 4px solid var(--cosa-yellow);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px 30px;
+}
+
+.cosa-horizontal-logo {
+  display: block;
+  width: 100%;
+  max-width: 1500px;
+  height: auto;
+  max-height: 150px;
+  object-fit: contain;
+}
+
+/* Horizontal COSA logo inside homepage hero */
+
+.cosa-logo-bloc {
+  display: block;
+  width: 100%;
+  max-width: none;
+  height: auto;
+  max-height: none;
+  object-fit: contain;
+  background-color: #FFFFFF;
+  padding: 18px 24px;
+  box-sizing: border-box;
+  margin: 0 auto 25px;
+}
+
+/* Eurostat logo beside COSA title */
+
+.cosa-hero-title-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+  width: 100%;
+}
+
+.cosa-hero-title-row h1 {
+  flex: 1;
+  margin: 20px 0 4px 0;
+}
+
+.cosa-eurostat-logo {
+  display: block;
+  width: 650px;
+  max-width: 80%;
+  height: auto;
+  object-fit: contain;
+  flex-shrink: 0;
+  margin: 0 0 0 auto;
+}
+
+/* =====================================
+   HEADINGS AND LINKS
+   ===================================== */
+
+h1,
+h2,
+h3 {
+  color: var(--cosa-blue);
+}
+
+h2 {
+  border-bottom: 4px solid var(--cosa-orange);
+  padding-bottom: 10px;
+}
+
+a {
+  color: var(--cosa-blue);
+}
+
+a:hover {
+  color: var(--cosa-orange-dark);
+}
+
+/* =====================================
+   HIGHLIGHTED SECTIONS
+   ===================================== */
+
+.cosa-yellow {
+  background: var(--cosa-yellow);
+  padding: 30px;
+  border-radius: 12px;
+}
+
+.cosa-orange {
+  background: var(--cosa-orange);
+  padding: 30px;
+  border-radius: 12px;
+}
+
+.cosa-vanilla {
+  background: var(--cosa-vanilla);
+  padding: 30px;
+  border-radius: 12px;
+}
+
+/* Event cards */
+
+.cosa-event {
+  background: var(--cosa-vanilla);
+  border-left: 6px solid var(--cosa-orange-dark);
+  padding: 22px;
+  border-radius: 8px;
+}
+
+/* =====================================
+   FOOTER
+   ===================================== */
+
+.nav-footer {
+  background-color: var(--cosa-blue);
+  border-top: 5px solid var(--cosa-yellow);
+  color: var(--cosa-white);
+}
+
+.nav-footer a {
+  color: var(--cosa-yellow);
+}
+
+/* =====================================
+   HOMEPAGE - HERO
+   ===================================== */
+
+.cosa-hero {
+  background: var(--cosa-blue);
+  color: var(--cosa-white);
+  padding: 42px 48px;
+  border-radius: 16px;
+  margin: 20px 0 42px 0;
+  border-bottom: 7px solid var(--cosa-yellow);
+}
+
+.cosa-hero h1 {
+  color: var(--cosa-yellow);
+  font-size: clamp(3.5rem, 7vw, 5.5rem);
+  font-weight: 800;
+  letter-spacing: 3px;
+  margin: 20px 0 4px 0;
+}
+
+.cosa-full-name {
+  color: var(--cosa-white);
+  font-size: clamp(1.1rem, 2vw, 1.55rem);
+  font-weight: 500;
+  width: 100%;
+  max-width: none;
+}
+
+.cosa-hero-intro {
+  color: var(--cosa-white);
+  font-size: 1.08rem;
+  width: 100%;
+  max-width: none;
+  margin-top: 18px;
+  line-height: 1.7;
+}
+
+/* Homepage section headings */
+
+main.content h2 {
+  margin-top: 48px;
+  margin-bottom: 24px;
+  font-size: 1.9rem;
+}
+
+/* =====================================
+   LATEST EVENT
+   ===================================== */
+
+.cosa-latest {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 35px;
+  background: var(--cosa-yellow);
+  padding: 30px 36px;
+  border-radius: 14px;
+  border-left: 8px solid var(--cosa-orange-dark);
+}
+
+.cosa-latest-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.cosa-latest-tag {
+  color: var(--cosa-blue);
+  font-size: 0.8rem;
+  font-weight: 800;
+  letter-spacing: 1.5px;
+}
+
+.cosa-latest h3 {
+  color: var(--cosa-blue);
+  margin-top: 10px;
+}
+
+.cosa-latest p {
+  color: var(--cosa-text);
+}
+
+.cosa-latest a {
+  font-weight: 750;
+}
+
+.cosa-workshop-logo {
+  width: 230px;
+  max-width: 30%;
+  height: auto;
+  object-fit: contain;
+  background: white;
+  padding: 12px;
+  border-radius: 10px;
+}
+
+/* =====================================
+   TWO PILLARS
+   ===================================== */
+
+.cosa-pillars {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+  margin: 24px 0;
+}
+
+.cosa-pillar {
+  padding: 26px;
+  border-radius: 12px;
+  color: var(--cosa-text);
+}
+
+.cosa-pillar h3 {
+  color: var(--cosa-blue);
+  margin-top: 0;
+}
+
+.cosa-pillar-yellow {
+  background: var(--cosa-yellow);
+}
+
+.cosa-pillar-orange {
+  background: var(--cosa-orange);
+}
+
+/* =====================================
+   PORTAL LINKS
+   ===================================== */
+
+.cosa-portals {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  margin: 30px 0;
+}
+
+.cosa-portals a {
+  display: inline-block;
+  background: var(--cosa-blue);
+  color: var(--cosa-white);
+  padding: 15px 25px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 700;
+  transition: background 0.2s ease;
+}
+
+.cosa-portals a:hover {
+  background: var(--cosa-orange-dark);
+  color: white;
+}
+
+/* =====================================
+   ROADMAP
+   ===================================== */
+
+.cosa-roadmap-block {
+  background: var(--cosa-vanilla);
+  border-left: 7px solid var(--cosa-orange);
+  border-radius: 8px;
+  padding: 22px 28px;
+  margin: 22px 0;
+}
+
+.cosa-roadmap-block h3 {
+  color: var(--cosa-blue);
+  margin-top: 0;
+}
+
+/* =====================================
+   CONSORTIUM
+   ===================================== */
+
+.cosa-consortium {
+  background: var(--cosa-blue);
+  color: var(--cosa-white);
+  padding: 28px 32px;
+  border-radius: 12px;
+  margin: 32px 0;
+}
+
+.cosa-consortium p {
+  margin-bottom: 0;
+}
+
+/* =====================================
+   RESPONSIVE - TABLETS AND MOBILE
+   ===================================== */
+
+@media (max-width: 768px) {
+
+  #quarto-content {
+    padding: 0 14px;
+  }
+
+  /* Logo bar */
+
+  .cosa-logo-bar {
+    padding: 10px 12px;
+  }
+
+  .cosa-horizontal-logo {
+    max-height: 90px;
+  }
+
+  /* Homepage logo */
+
+  .cosa-logo-bloc {
+    padding: 10px;
+    margin-bottom: 18px;
+  }
+
+  .cosa-hero-title-row {
+    gap: 12px;
+  }
+
+  .cosa-eurostat-logo {
+    width: 220px;
+    max-width: 40%;
+  }
+
+  /* Hero */
+
+  .cosa-hero {
+    padding: 28px 22px;
+  }
+
+  .cosa-hero h1 {
+    font-size: 3.5rem;
+  }
+
+  /* Latest event */
+
+  .cosa-latest {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 24px;
+  }
+
+  .cosa-workshop-logo {
+    max-width: 100%;
+    width: 200px;
+  }
+
+  /* Pillars */
+
+  .cosa-pillars {
+    grid-template-columns: 1fr;
+  }
+
 }

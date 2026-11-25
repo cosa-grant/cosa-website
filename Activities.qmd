@@ -1,15 +1,48 @@
+---
+title: ""
+---
+
 # Activities {.unnumbered}
 
-Period Nov 2025- Oct2029
 
-- Knowledge sharing (Documentation, tutorials...)
+## November 2025 – October 2029
 
-- Support to practitioners (help-desk, user group and international observers..)
 
-- Methodological guidance
+:::: {.cosa-activities-grid}
 
-- Tool developments (building high-level user-friendly tools, IT modernization, accessibility...)
+::: {.cosa-activity-card .cosa-activity-yellow}
+### Knowledge sharing
 
-- Training, technical assistance and events (workshops, conferences)
+Documentation, tutorials...
+:::
 
-- Monitoring (implementation of guidelines within ESS....)
+::: {.cosa-activity-card .cosa-activity-orange}
+### Support to practitioners
+
+Help-desk services, user groups and collaboration with international observers.
+:::
+
+::: {.cosa-activity-card .cosa-activity-orange}
+### Methodological guidance
+
+:::
+
+::: {.cosa-activity-card .cosa-activity-yellow}
+### Tool developments
+
+Building high-level, user-friendly tools, modernising IT infrastructures and improving software accessibility.
+:::
+
+::: {.cosa-activity-card .cosa-activity-yellow}
+### Training, technical assistance and events
+
+Organising workshops and conferences.
+:::
+
+::: {.cosa-activity-card .cosa-activity-orange}
+### Monitoring
+
+Implementating methodological guidelines within the European Statistical System (ESS).
+:::
+
+::::
