@@ -1,0 +1,118 @@
+
+/* =====================================
+  EVENTS PAGE
+===================================== */
+  
+  .cosa-event-card {
+    position: relative;
+    background: #FFFFFF;
+      border-radius: 14px;
+    padding: 28px 32px;
+    margin: 24px 0;
+    border-left: 7px solid var(--cosa-orange);
+    box-shadow: 0 3px 12px rgba(43, 36, 30, 0.06);
+  }
+
+.cosa-event-upcoming {
+  background: var(--cosa-yellow);
+  border-left-color: var(--cosa-orange-dark);
+}
+
+.cosa-event-label {
+  display: inline-block;
+  color: var(--cosa-blue);
+  background: rgba(255, 255, 255, 0.75);
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 1px;
+  margin-bottom: 12px;
+}
+
+.cosa-event-card h3 {
+  color: var(--cosa-blue);
+  margin-top: 6px;
+}
+
+.cosa-event-card p {
+  color: var(--cosa-text);
+}
+
+.cosa-event-card a {
+  font-weight: 700;
+}
+
+.cosa-event-photo {
+  display: block;
+  width: 100%;
+  max-height: 430px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 10px;
+  margin: 22px auto 0;
+}
+
+.cosa-event-logo {
+  display: block;
+  width: 260px;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  background: white;
+  padding: 12px;
+  border-radius: 10px;
+  margin: 22px 0 0;
+}
+
+@media (max-width: 650px) {
+  .cosa-event-card {
+    padding: 22px 18px;
+  }
+  
+  .cosa-event-photo {
+    max-height: 280px;
+  }
+}
+
+
+
+/* Upcoming event: text and logo side by side */
+
+.cosa-event-layout {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 35px;
+}
+
+.cosa-event-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.cosa-event-logo {
+  display: block;
+  width: 280px;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  background: white;
+  padding: 14px;
+  border-radius: 10px;
+  margin: 0;
+  flex-shrink: 0;
+}
+
+@media (max-width: 650px) {
+  .cosa-event-layout {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+  }
+
+  .cosa-event-logo {
+    width: 220px;
+    max-width: 100%;
+  }
+}
