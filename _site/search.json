@@ -11,7 +11,53 @@
     "href": "Activities.html#november-2025-october-2029",
     "title": "Activities",
     "section": "",
+<<<<<<< HEAD
+    "text": "To ask a question, you can complete an issue directly on GitHub. You need to have a GitHub account. To complete an issue on GitHub, you should:\n1.Go to the Issues tab:\n\n\nClick on New issue:\n\n\n\nChoose one of the themes proposed in the list and click on Get started:\n\n\n\nFill the question with a title and a text to explain the problem or the request and click on Submit new issue:"
+  },
+  {
+    "objectID": "Teams.html",
+    "href": "Teams.html",
+    "title": "Teams",
+    "section": "",
+    "text": "COSA brings together experts from national statistical institutes across Europe, working together on statistical confidentiality and time series analysis.\n\n\n\n\n\n\n\n\n\n\n Anna Smyk\nInsee Global Coordinator\n\n\n\nBS\n\nBertrand Soudry\nInsee Financial Reporter\n\n\n\n\n\n\nParticipating institutions: CBS · Insee · Destatis · Statistik Austria · Statistics Iceland · Statistics Norway · SURS\n\n\n\n\nPW\n\nPeter-Paul de Wolf\nCBS Coordinator\n\n\n\nAK\n\nAlexander Kowarik\nStatistik Austria\n\n\n\nAV\n\nArndís Vilhjalmdottir\nStatistics Iceland\n\n\n\nVC\n\nVioleta Calian\nStatistics Iceland\n\n\n\nAS\n\nAndreja Smukavec\nSURS\n\n\n\nOL\n\nOyvind Langsrud\nStatistics Norway\n\n\n\nMG\n\nManca Golmajer\nSURS\n\n\n\nSG\n\nSarah Giessing\nDestatis\n\n\n\nLB\n\nLaurent Brochet\nInsee\n\n\n\nNF\n\nNadège Ferrer-Pradines\nInsee\n\n\n\nJD\n\nJulien Desclodure\nInsee\n\n\n\nDL\n\nDimitri Lemaire\nInsee\n\n\n\nAY\n\nArnaud Yapou Nderkanzuku\nInsee\n\n\n\n\n\n\nParticipating institutions: Insee · NBB · INE · Istat · Destatis · CBS · SURS · HCSO · Deutsche Bundesbank (Associate Partner)\n\n\n\n\n\n Anna Smyk\nInsee Coordinator\n\n\n\nCL\n\nCorentin Lemasson\nNBB\n\n\n\nNB\n\nNabil Bouamara\nNBB\n\n\n\nCS\n\nCarlos Sáez Calvo\nINE\n\n\n\nJR\n\nJuan Rodenas Gomez\nINE\n\n\n\nLS\n\nLuis Sanguiao Sande\nINE\n\n\n\nBA\n\nBeatriz Abad Martin\nINE\n\n\n\nAP\n\nAlessandro Piovani\nIstat\n\n\n\nAP\n\nPaola Anzini\nIstat\n\n\n\nAP\n\nGiancarlo Lutero\nIstat\n\n\n\nAP\n\nMaria Sainz\nIstat\n\n\n\nLV\n\nLukas Vogel\nDestatis\n\n\n\nPO\n\nPim Ouwehand\nCBS\n\n\n Eulalie Delaune\nInsee\n\n\n\nPC\n\nPhilippe Charles\nNBB\n\n\n Karsten Webel\nDeutsche Bundesbank\n\n\n\nDaniel Ollech\nDeutsche Bundesbank\n\n\n\nTW\n\nThomas Witthohn\nDeutsche Bundesbank\n\n\n\nCH\n\nChristiane Hofer\nDeutsche Bundesbank\n\n\n\nJG\n\nJan Gerhardt\nDeutsche Bundesbank\n\n\n\nNR\n\nNikolina Rizanovska\nSURS\n\n\n\nZC\n\nZsolt Csáfordi\nHCSO\n\n\n\nEF\n\nErika Földesi\nHCSO\n\n\n\nSS\n\nSarolta Székely\nHCSO\n\n\n\nJP\n\nJean Palate\nIndependant Researcher\n\n\n\n\n\n\n\n\nCT\n\nClaudia Trevisan\nCSO\n\n\n\nMF\n\nMarkus Froehlich\nStatistics Austria\n\n\n\nMT\n\nMuhammed Fatih Tüzen\nTUIK\n\n\n\nSG\n\nSeidel Gerald\nArbeitsagentur\n\n\n\nAB\n\nAroa Ballesteros Cortijo\nAIReF\n\n\n\nEM\n\nEnrique Martin\nAgencia Tributaria\n\n\n\nAC\n\nAngel Cuevas\nAgencia Tributaria\n\n\n\nRP\n\nRuana Pavasare\nCSB (Latvia)\n\n\n\nIK\n\nIlva Krastina\nCSB (Latvia)\n\n\n\nKJ\n\nKristoffer Jens\nStatistics Norway"
+  },
+  {
+    "objectID": "Teams.html#consortium-coordination",
+    "href": "Teams.html#consortium-coordination",
+    "title": "Teams",
+    "section": "",
+    "text": "Anna Smyk\nInsee Global Coordinator\n\n\n\nBS\n\nBertrand Soudry\nInsee Financial Reporter"
+  },
+  {
+    "objectID": "Teams.html#statistical-disclosure-control-sdc",
+    "href": "Teams.html#statistical-disclosure-control-sdc",
+    "title": "Teams",
+    "section": "",
+    "text": "Participating institutions: CBS · Insee · Destatis · Statistik Austria · Statistics Iceland · Statistics Norway · SURS\n\n\n\n\nPW\n\nPeter-Paul de Wolf\nCBS Coordinator\n\n\n\nAK\n\nAlexander Kowarik\nStatistik Austria\n\n\n\nAV\n\nArndís Vilhjalmdottir\nStatistics Iceland\n\n\n\nVC\n\nVioleta Calian\nStatistics Iceland\n\n\n\nAS\n\nAndreja Smukavec\nSURS\n\n\n\nOL\n\nOyvind Langsrud\nStatistics Norway\n\n\n\nMG\n\nManca Golmajer\nSURS\n\n\n\nSG\n\nSarah Giessing\nDestatis\n\n\n\nLB\n\nLaurent Brochet\nInsee\n\n\n\nNF\n\nNadège Ferrer-Pradines\nInsee\n\n\n\nJD\n\nJulien Desclodure\nInsee\n\n\n\nDL\n\nDimitri Lemaire\nInsee\n\n\n\nAY\n\nArnaud Yapou Nderkanzuku\nInsee"
+  },
+  {
+    "objectID": "Teams.html#time-series-analysis-tsa",
+    "href": "Teams.html#time-series-analysis-tsa",
+    "title": "Teams",
+    "section": "",
+    "text": "Participating institutions: Insee · NBB · INE · Istat · Destatis · CBS · SURS · HCSO · Deutsche Bundesbank (Associate Partner)\n\n\n\n\n\n Anna Smyk\nInsee Coordinator\n\n\n\nCL\n\nCorentin Lemasson\nNBB\n\n\n\nNB\n\nNabil Bouamara\nNBB\n\n\n\nCS\n\nCarlos Sáez Calvo\nINE\n\n\n\nJR\n\nJuan Rodenas Gomez\nINE\n\n\n\nLS\n\nLuis Sanguiao Sande\nINE\n\n\n\nBA\n\nBeatriz Abad Martin\nINE\n\n\n\nAP\n\nAlessandro Piovani\nIstat\n\n\n\nAP\n\nPaola Anzini\nIstat\n\n\n\nAP\n\nGiancarlo Lutero\nIstat\n\n\n\nAP\n\nMaria Sainz\nIstat\n\n\n\nLV\n\nLukas Vogel\nDestatis\n\n\n\nPO\n\nPim Ouwehand\nCBS\n\n\n Eulalie Delaune\nInsee\n\n\n\nPC\n\nPhilippe Charles\nNBB\n\n\n Karsten Webel\nDeutsche Bundesbank\n\n\n\nDaniel Ollech\nDeutsche Bundesbank\n\n\n\nTW\n\nThomas Witthohn\nDeutsche Bundesbank\n\n\n\nCH\n\nChristiane Hofer\nDeutsche Bundesbank\n\n\n\nJG\n\nJan Gerhardt\nDeutsche Bundesbank\n\n\n\nNR\n\nNikolina Rizanovska\nSURS\n\n\n\nZC\n\nZsolt Csáfordi\nHCSO\n\n\n\nEF\n\nErika Földesi\nHCSO\n\n\n\nSS\n\nSarolta Székely\nHCSO\n\n\n\nJP\n\nJean Palate\nIndependant Researcher\n\n\n\n\n\n\n\n\nCT\n\nClaudia Trevisan\nCSO\n\n\n\nMF\n\nMarkus Froehlich\nStatistics Austria\n\n\n\nMT\n\nMuhammed Fatih Tüzen\nTUIK\n\n\n\nSG\n\nSeidel Gerald\nArbeitsagentur\n\n\n\nAB\n\nAroa Ballesteros Cortijo\nAIReF\n\n\n\nEM\n\nEnrique Martin\nAgencia Tributaria\n\n\n\nAC\n\nAngel Cuevas\nAgencia Tributaria\n\n\n\nRP\n\nRuana Pavasare\nCSB (Latvia)\n\n\n\nIK\n\nIlva Krastina\nCSB (Latvia)\n\n\n\nKJ\n\nKristoffer Jens\nStatistics Norway"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Time Series Analysis Workshop",
+    "section": "",
+    "text": "A Workshop on Time Series Analysis will be held at OECD, Paris, La Muette, France on December 3rd and 4th 2025.\nThe two main topics are Nowcasting and Seasonal Adjustment.\nSeveral talks relate to JDemetra+.\nThe full program is available here\nTo attend (in presence or remotely), register using this link\nhttps://forms.office.com/e/gAr2Y6CMfR\nNote that all meeting documents will be posted on: https://one-communities.oecd.org/community/workshop-on-time-series-methods-for-official-statistics/SitePages/Home.aspx\nFor any questions regarding logistics, please contact virginie.elgrably@oecd.org"
+  },
+  {
+    "objectID": "posts/Conf_OECD_Dec2025_expost/index.html",
+    "href": "posts/Conf_OECD_Dec2025_expost/index.html",
+    "title": "5th OECD-Insee TSA Workshop",
+    "section": "",
+    "text": "A very lively 5th Edition of the Time Series Analysis for Official Statistics Workshop took place at OECD, Paris, La Muette, France on December 3rd and 4th 2025 and via Zoom.\nWe were (almost) live on LinkedIn thanks to Dario Buono\nThe two main topics were Nowcasting and Seasonal Adjustment, with several talks were related to JDemetra+. All presentations are available at: https://one-communities.oecd.org/community/workshop-on-time-series-methods-for-official-statistics/SitePages/Home.aspx\nWe were delighted to spend time with some of you ! Very fruitful discussions and good mood and a bit of drama… thank you for attending !\nSee you next year !"
+=======
     "text": "Documentation, tutorials…\n\n\n\nHelp-desk services, user groups and collaboration with international observers.\n\n\n\n\n\n\nBuilding high-level, user-friendly tools, modernising IT infrastructures and improving software accessibility.\n\n\n\nOrganising workshops and conferences.\n\n\n\nImplementating methodological guidelines within the European Statistical System (ESS)."
+>>>>>>> 54f937997a0a0fd6451618ce428b9370e312de4e
   },
   {
     "objectID": "Events.html",

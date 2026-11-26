@@ -28,6 +28,14 @@ COSA brings together experts from national statistical institutes across Europe,
 **Anna Smyk**
 
 <span class="cosa-person-institution">Insee</span>
+<span class="cosa-person-role">Global Coordinator</span>
+:::
+::: {.cosa-person-card}
+<div class="cosa-avatar">BS</div>
+**Bertrand Soudry**
+
+<span class="cosa-person-institution">Insee</span>
+<span class="cosa-person-role">Financial Reporter</span>
 :::
 
 :::
@@ -35,7 +43,7 @@ COSA brings together experts from national statistical institutes across Europe,
 ## Statistical Disclosure Control (SDC)
 
 ::: {.cosa-team-institutions}
-**Participating institutions:** CBS · Insee · Destatis · Statistik Austria · Statistic Iceland · Statistic Norway · SURS
+**Participating institutions:** CBS · Insee · Destatis · Statistik Austria · Statistics Iceland · Statistics Norway · SURS
 :::
 
 ::: {.cosa-team-grid}
@@ -45,6 +53,56 @@ COSA brings together experts from national statistical institutes across Europe,
 **Peter-Paul de Wolf**
 
 <span class="cosa-person-institution">CBS</span>
+<span class="cosa-person-role">Coordinator</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">AK</div>
+**Alexander Kowarik**
+
+<span class="cosa-person-institution">Statistik Austria</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">AV</div>
+**Arndís Vilhjalmdottir**
+
+<span class="cosa-person-institution">Statistics Iceland</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">VC</div>
+**Violeta Calian**
+
+<span class="cosa-person-institution">Statistics Iceland</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">AS</div>
+**Andreja Smukavec**
+
+<span class="cosa-person-institution">SURS</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">OL</div>
+**Oyvind Langsrud**
+
+<span class="cosa-person-institution">Statistics Norway</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">MG</div>
+**Manca Golmajer**
+
+<span class="cosa-person-institution">SURS</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">SG</div>
+**Sarah Giessing**
+
+<span class="cosa-person-institution">Destatis</span>
 :::
 
 ::: {.cosa-person-card}
@@ -90,6 +148,8 @@ COSA brings together experts from national statistical institutes across Europe,
 **Participating institutions:** Insee · NBB · INE · Istat · Destatis · CBS · SURS · HCSO · Deutsche Bundesbank (Associate Partner)
 :::
 
+### TSA Expert Group
+
 ::: {.cosa-team-grid}
 
 ::: {.cosa-person-card}
@@ -103,6 +163,13 @@ COSA brings together experts from national statistical institutes across Europe,
 ::: {.cosa-person-card}
 <div class="cosa-avatar">CL</div>
 **Corentin Lemasson**
+
+<span class="cosa-person-institution">NBB</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">NB</div>
+**Nabil Bouamara**
 
 <span class="cosa-person-institution">NBB</span>
 :::
@@ -122,8 +189,46 @@ COSA brings together experts from national statistical institutes across Europe,
 :::
 
 ::: {.cosa-person-card}
+<div class="cosa-avatar">LS</div>
+**Luis Sanguiao Sande**
+
+<span class="cosa-person-institution">INE</span>
+:::
+
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">BA</div>
+**Beatriz Abad Martin**
+
+<span class="cosa-person-institution">INE</span>
+:::
+
+::: {.cosa-person-card}
 <div class="cosa-avatar">AP</div>
 **Alessandro Piovani**
+
+<span class="cosa-person-institution">Istat</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">AP</div>
+**Paola Anzini**
+
+<span class="cosa-person-institution">Istat</span>
+:::
+
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">AP</div>
+**Giancarlo Lutero**
+
+<span class="cosa-person-institution">Istat</span>
+:::
+
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">AP</div>
+**Maria Sainz**
 
 <span class="cosa-person-institution">Istat</span>
 :::
@@ -179,10 +284,133 @@ COSA brings together experts from national statistical institutes across Europe,
 :::
 
 ::: {.cosa-person-card}
+<div class="cosa-avatar">CH</div>
+**Christiane Hofer**
+
+<span class="cosa-person-institution">Deutsche Bundesbank</span>
+:::
+
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">JG</div>
+**Jan Gerhardt**
+
+<span class="cosa-person-institution">Deutsche Bundesbank</span>
+:::
+
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">NR</div>
+**Nikolina Rizanovska**
+
+<span class="cosa-person-institution">SURS</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">ZC</div>
+**Zsolt Csáfordi**
+
+<span class="cosa-person-institution">HCSO</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">EF</div>
+**Erika Földesi**
+
+<span class="cosa-person-institution">HCSO</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">SS</div>
+**Sarolta Székely**
+
+<span class="cosa-person-institution">HCSO</span>
+:::
+
+::: {.cosa-person-card}
 <div class="cosa-avatar">JP</div>
 **Jean Palate**
 
 <span class="cosa-person-institution">Independant Researcher</span>
 :::
+
+:::
+
+
+### TSA User Group
+
+::: {.cosa-team-grid}
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">CT</div>
+**Claudia Trevisan**
+
+<span class="cosa-person-institution">CSO</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">MF</div>
+**Markus Froehlich**
+
+<span class="cosa-person-institution">Statistics Austria</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">MT</div>
+**Muhammed Fatih Tüzen**
+
+<span class="cosa-person-institution">TUIK</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">SG</div>
+**Seidel Gerald**
+
+<span class="cosa-person-institution">Arbeitsagentur</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">AB</div>
+**Aroa Ballesteros Cortijo**
+
+<span class="cosa-person-institution">AIReF</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">EM</div>
+**Enrique Martin**
+
+<span class="cosa-person-institution">Agencia Tributaria</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">AC</div>
+**Angel Cuevas**
+
+<span class="cosa-person-institution">Agencia Tributaria</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">RP</div>
+**Ruana Pavasare**
+
+<span class="cosa-person-institution">CSB (Latvia)</span>
+:::
+
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">IK</div>
+**Ilva Krastina**
+
+<span class="cosa-person-institution">CSB (Latvia)</span>
+:::
+
+::: {.cosa-person-card}
+<div class="cosa-avatar">KJ</div>
+**Kristoffer Jens**
+
+<span class="cosa-person-institution">Statistics Norway</span>
+:::
+
 
 :::
